@@ -30,7 +30,7 @@ After pull, if I check the local repository using dir, there are 2 files as show
 
 image
 
-To add a branch in master branch git branch branchname (occurs localy not remotly)
+To add a branch in master branch git branch branchname (occurs localy not remotly) and doesn´t swith the branch only creates it.
 
 Switch the branch git checkout branchname
 
